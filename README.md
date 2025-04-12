@@ -2,6 +2,6 @@
 
 Built with Astro static site generator.
 
-Student Name: [Your Name]
-Student Number: [Your Student Number]
+Student Name: [ Ramanpreet Kaur ]
+Student Number: [041133509]
 Static Site Generator: Astro
